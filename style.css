@@ -50,7 +50,6 @@ button:hover{
 	background-color: hsl(0,0%,75%);
 	font-size: 1.5rem;
 	transition: ease-in-out 250ms;
-	/* transition-duration: 250ms; */
 }
 
 button:active{
