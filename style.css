@@ -48,7 +48,7 @@ button{
 
 button:hover{
 	background-color: hsl(0,0%,75%);
-	font-size: 1.5rem;
+	font-size: 1.75rem;
 	transition: ease-in-out 250ms;
 }
 
